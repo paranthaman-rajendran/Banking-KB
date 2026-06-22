@@ -13,6 +13,7 @@ Knowledge base content for the `Payments` domain. Mirrors the [Structured Produc
 | Folder / File | Purpose |
 |---|---|
 | [concepts.md](concepts.md) | Foundational concept explainers (primary vs secondary sanctions, CDD/EDD/SDD, nostro/vostro, RTGS vs DNS, finality, push vs pull, APP fraud, etc.) — start here |
+| [gap-analysis-tier1-bank.md](gap-analysis-tier1-bank.md) | Honest review of KB coverage vs. tier-1 US MNC bank (JPMC / BofA / Wells / Citi) — what's missing and why |
 | [taxonomy-detail.md](taxonomy-detail.md) | Deeper breakdown of Payments sub-domains, rails, and instruments |
 | [rails/](rails/) | Per-rail knowledge — domestic India / USA / UK, cross-border, real-time |
 | [standards/](standards/) | Message standards — ISO 20022, SWIFT MT/MX, ISO 8583 |
