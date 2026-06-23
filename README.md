@@ -20,7 +20,8 @@ This workspace contains the non-code assets the guide says must come first: taxo
 | [03-governance/](03-governance/) | Classification, access control, audit | **Governance policy** |
 | [04-pilot-structured-products/](04-pilot-structured-products/) | Pilot scope and success criteria | **Pilot scope** |
 | [05-roadmap/](05-roadmap/) | Phase 1–6 timeline | Sequencing |
-| [06-payments/](06-payments/) | Payments sub-domain knowledge (rails, standards, regulatory) | Sub-domain content prep |
+| [06-payments/](06-payments/) | Payments sub-domain knowledge (rails, standards, regulatory, vendors) | Sub-domain content prep |
+| [07-core-banking/](07-core-banking/) | Core Banking sub-domain — CBS platforms + Retail + Wholesale/Corporate | Sub-domain content prep |
 
 ---
 

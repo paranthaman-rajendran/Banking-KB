@@ -97,6 +97,7 @@ Banking Knowledge Base
 
 | Code | Display Name |
 |---|---|
+| `CoreBanking` | Core Banking (Retail + Wholesale/Corporate platform layer) |
 | `RetailBanking` | Retail Banking |
 | `Payments` | Payments |
 | `CapitalMarkets` | Capital Markets |
