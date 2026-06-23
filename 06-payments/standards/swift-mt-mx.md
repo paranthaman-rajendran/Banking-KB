@@ -1,5 +1,7 @@
 # SWIFT MT and MX
 
+> Revision: 2026-06-22 — docs(payments/standards): clarify SWIFT MT→MX mapping and operational considerations
+
 The legacy (MT) and current (MX / ISO 20022) message standards on the SWIFT network. Both are in scope for the KB during the co-existence period; MT is sunsetting for cross-border payments in **November 2025**.
 
 > Sub-domain: `Payments / Standards`
