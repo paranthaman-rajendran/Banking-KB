@@ -17,6 +17,7 @@ Knowledge base content for **core banking** — the customer + account + product
 | [core-banking-systems.md](core-banking-systems.md) | CBS landscape — Finacle, Flexcube, T24/Transact, BaNCS, Vault, Mambu, 10x, FIS, Fiserv |
 | [eod-batch-cycle.md](eod-batch-cycle.md) | EOD/BOD batch cycle — job sequence, retail vs. wholesale differences, 24x7 impact, failure modes |
 | [year-end-activities.md](year-end-activities.md) | Year-end activities — calendar / fiscal / tax year-end; GL close, tax certs, FATCA/CRS, provisioning recompute, escheatment, KYC refresh, regulatory cycles, jurisdiction nuances |
+| [regulatory/](regulatory/) | CBS regulatory + compliance per-jurisdiction (US / UK / SG / CN) + cross-jurisdiction compliance matrix |
 | [retail/](retail/) | Retail banking — products, deposits, lending, cards, channels, ops |
 | [wholesale-corporate/](wholesale-corporate/) | Wholesale / corporate banking — treasury services, lending, trade finance, cash management, channels, segments |
 
